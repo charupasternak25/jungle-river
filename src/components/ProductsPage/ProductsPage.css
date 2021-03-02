@@ -1,0 +1,29 @@
+.product-page {
+  margin: 20px 10px;
+}
+
+.product-page .page-heading {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.product-page .page-sub-heading {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 10px 0px;
+}
+
+.product-page .icons {
+  display: grid;
+  grid-template-columns: repeat(2, 50px);
+}
+
+.product-page .icon {
+  height: 28px;
+  width: 28px;
+  fill: #bbb;
+}
+
+.product-page .icon:hover {
+  fill:#7783c5;
+}

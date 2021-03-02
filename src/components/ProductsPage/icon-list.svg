@@ -1,0 +1,9 @@
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  width="128"
+  height="128"
+  viewBox="0 0 512 512"
+>
+  <path d="M0 0h128v128h-128zM192 32h320v64h-320zM0 192h128v128h-128zM192 224h320v64h-320zM0 384h128v128h-128zM192 416h320v64h-320z"></path>
+</svg>
